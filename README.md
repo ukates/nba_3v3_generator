@@ -13,7 +13,7 @@ should be made up of at least three different pieces of data.
 > object and selects a random value from the attached array using Math.random()
 
 ### The Output
-```bash
+```
 *****NBA 3V3 TEAM GENERATOR*****
 
 Check below for your random team!
